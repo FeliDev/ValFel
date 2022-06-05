@@ -1,0 +1,23 @@
+Idle animations {
+
+Crouch-9697391236
+Stand Idle-9707388052
+
+
+ }
+
+Walk animations {
+
+Walk-9713600993
+Run-9752553791
+Sprint-8372830267
+Crouch walk-9697455982
+
+ }
+
+Action animations {
+
+Fence vault-9639550487
+Jump-9759778917
+
+ }
